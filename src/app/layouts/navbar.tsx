@@ -1,3 +1,5 @@
+"use client";
+
 import {
   Navbar,
   NavbarBrand,
@@ -21,7 +23,7 @@ const MainNavbar = () => {
         <NavbarItem>
           <Link
             color="foreground"
-            href="#">
+            href="/wines">
             Mes vins
           </Link>
         </NavbarItem>

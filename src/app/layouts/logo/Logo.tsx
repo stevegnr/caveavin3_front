@@ -6,7 +6,7 @@ const Logo = () => {
   return (
     <Image
       width={100}
-      //   height={75}
+      height={75}
       src={logo}
       alt="Logo de MaCaveAVin"
       style={{ borderRadius: "50%" }}
